@@ -17,7 +17,7 @@
 > Since 12.2019 
 Alpari, Moscow (alpari.com, Leading finance brand at market forex)    
 
-**Department**: Marketing and Advertising.  
+**Department**: Product Development.  
     
 **Position:** Web-developer / Designer.  
 
@@ -96,7 +96,7 @@ LLC «Ibrus» Moscow (Movie company)
 **Other skills**
 -
 • JavaScript  
-• Reactjs  
+• ReactJs  
 • Python  
 • Figma  
 • Zeplin   
