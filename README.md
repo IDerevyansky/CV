@@ -1,134 +1,110 @@
-**ПЕРСОНАЛЬНАЯ ИНФОРМАЦИЯ**
+**PERSONAL INFORMATION**
 -
+**First name / Last name:** Igor Derevyansky 
  
-**Фамилия / Имя:** Деревянский Игорь 
- 
-**Пол:** Мужской   
-**Дата рождения:** 08.06.1987   
-**Место проживания:** Россия, Москва   
-**Образование:** Высшее   
-**Семейное положение:** Холост / детей нет   
-**Номер телефона:** +7 (965) 312-17-76   
-**E-mail:** IDerevyansky@yandex.ru   
-**Портфолио web:** https://iderevyansky.ru/portfolio.pdf   
-**Портфолио adv:** https://iderevyansky.ru/portfolio_prod.pdf   
-**GitHub:** https://github.com/IDerevyansky   
-**HackerRank:** https://www.hackerrank.com/derevyansky_igor
+**Gender:** Male   
+**Birthday:** 08.06.1987   
+**Location born:** Russia, Moscow   
+**Education:** Higher   
+**Marital status:** Married / no children   
+**Mobile number:** +7 (965) 312-17-76   
+**E-mail:** igor.derevyansky@gmail.com   
+**GitHub:** https://github.com/IDerevyansky
+
+  
+**Experience** 
+-
+> Since 12.2019 
+Alpari, Moscow (alpari.com, Leading finance brand at market forex)    
+
+**Department**: Marketing and Advertising.  
+    
+**Position:** Web-developer / Designer.  
+
+**Responsibilities:**   
+• Implementation promo sites department.(PHP, ReactJS, MySQL, Git)  
+• Integration library in our projects (Charts, Security, Analytics ).  
+• Development backend logic for work other departments.   
+• Development web design interface site promo events. (Sketch, Figma, Photoshop) 
 
 
- 
-**ОПЫТ РАБОТЫ** 
--
+> 04.2019 - 11.2019 
+ICIE, Moscow (inevm.ru, Government International Center for Informatics and Electronics)  
+   
+**Department**: Automatically monitoring system
+
+**Position:** Software engineer. 
+
+**Responsibilities:**   
+• Worked with legacy code a project (Symfony, Doctrine).  
+• Debugging, functional development and writing new code base.    
+• Work with PostgresQL, writing integration code and other functional.  
+• Writing code for new project.    
+• Worked by methodology TDD, OOP.    
+• Implementation functional for frontend site. (JavaScript, HTML, CSS).    
+
+
 > 07.2013 - 02.2019 
-Alpari, Москва (alpari.com/ru/, Ведущий финансовый бренд на рынке форекс) 
-Отдел: Маркетинг и Реклама   
+Alpari, Moscow (alpari.com, Leading finance brand at market forex)    
 
-**Должность:** Developer / Designer.  
+**Department**: Marketing and Advertising.  
+    
+**Position:** Web-developer / Designer.  
 
-**Обязанности:** 
+**Responsibilities:**   
+• Implementation promo sites department.(PHP, ReactJS, MySQL, Git)  
+• Integration library in our projects (Charts, Security, Analytics ).  
+• Development backend logic for work other departments.   
+• Development web design interface site promo events. (Sketch, Figma, Photoshop) 
 
-**Designer**  
-•	Занимался созданием, разработкой проектов компании.  
-•	Разрабатывал макеты под рекламные компании (digital, indoor, outdoor, promo).    
-•	Создание видео контента 2D. Монтаж (adobe After Effects)  
-•	Разработка/корректировка технического задания.  
-•	Коммуникация с подрядчиками, контроль сроков и качества поставленных задач.  
-•	Выезд на производство или на место установки рекламных продуктов, для контроля.  
-•	Контроль за соблюдением фирменного стиля компании.  
-•	Поддержка рекламными материалами всех продуктов и маркетинговых активностей компании.    
-•	Разработка дизайна, ux/ui – адаптация. (Элементов основного сайта, сторонних сайтов компании, landing page, e-mail рассылок, html-баннеров).  
-•	Реализовывал все проекты отдела, как продуктовый дизайн, так и web дизайн. 
-
-**Developer**  
-
-•	Реализация разработанных макетов. По поставленным техническим требованиям. Работал как один, так и с командой разработчиков из смежных отделов.  
-•	Работал с целью реализовать проект. По этому, брался за работу как front-end разработчика, так и за back-end реализацию.  
-•	Дописывал логику к существующим и уже реализованным проектам. Как пример реализовывал бизнес-логику к framework’у Simfony, Laravel на основных проектах компании.  
-•	Так и писал весь back-and, всю логику с «нуля» на Php.  
-•	Иногда прибегал к помощи Python.  
-•	В целом работал с разными видами реализаций, как табличная верстка для e-mail рассылок (Для корректного отображения в различных mail агентах). Так и прибегал к помощи front-and javascript библиотек (React).  
-•	Так как зачастую писал логику сам, так же приходилось писать самостоятельно SQL запросы. 
-
-
-
-**Достижения:**  
-
-•	Развитие профессионального кругозора.  
-•	Развитие в сфере дизайна как «вкуса» и узнаваемой стилистики. Так и технически, большее изучение программ для реализации задач. (Пакет Adobe, Sketch, inVision, SketchBook, MyPaint)  
-•	Повышение навыка работы с типографикой Арабской вязи и иероглифами.  
-•	Рисунок от руки. Как на графическом планшете, так и обычный карандаш.   
-•	Более детальное изучение языков программирования (Php, Python, JavaScript).  
-•	Так же знакомство и погружение в front-and библиотеки (React, Vue, Angular и в целом с Node.js) так как раньше реализовывал все на «голом» Html + JavaScript + php + sql.   
-•	Знакомство с большим количеством стилевых библиотек, таких как Bootstrap, Uikit, Semantic-ui, material-ui.
  
-
-
-
  
 > 06.2012 - 06.2013  
-ОАО «Туполев», Москва (www.tupolev.ru, Крупнейший авиационный концерн России)
+LLC «Tupolev», Москва (www.tupolev.ru, Biggest airplane company Russia)
    
-**Отдел:** Дизайна    
+**Department:** IT-departments
 
-**Должность:** Designer 
+**Position:** Web-developer
 
-**Обязанности:**   
-•	Участие в разработке дизайна интерьеров и внешнего вида самолетов.  
-•	Разработка концепции рекламных материалов, корпоративных информационных носителей.  
-•	Работа в штатной типографии концерна, контроль выпускаемой продукции.   
-•	Участие в фотосессиях и видеосъемках тестовых полетов, показов, презентаций.    
- 
-**Достижения:**  
-•	Расширил профессиональный кругозор.  
-•	Развил навык самоконтроля и дисциплины   
-•	Улучшил навык рисунка от руки.       
-•	Более детальное изучение типографского дела (работа в типографии концерна) подготовка макетов в печать по цветовым профилям, каналам и другим техническим параметрам. 
+**Responsibilities:**  
+• Support website company. (PHP, HTML, CSS, MySQL)   
+• Writing new code base.  
+• Development logic backend.  
+
 
 > 02.2006 - 09.2011  
-ООО «Каро Продакшн», ООО «Ибрус», ООО «Кинотрест», ООО «Тритэ», ООО «ТТО», 
-Москва (Кинопроизводство)  
+LLC «Ibrus» Moscow (Movie company)  
 
-**Должность:** Администратор съемочной группы 
+**Position:** Film crew manager
   
-**Обязанности:**   
-•	Работа с государственными учреждениями, компаниями, направленная на организацию съемок художественных фильмов, телесериалов.  
-•	Документооборот, административная работа на съемочной площадке. 
-
-**Достижения:**  
-Продуктивная работа в организации съемочного процесса.    
+**Responsibilities:**  
+• Work with government for production film.   
+• Work with document and administrative work on the set of the film.   
  
-**ОБРАЗОВАНИЕ**  
+
+**Key skills**
 -
-2005-2010 – МГУПИ (Московский Государственный Университет Приборостроения и Информатики) 
-Специальность: Программист
- 
-  
- 
-**ДРУГОЕ ОБРАЗОВАНИЕ И ОБУЧЕНИЕ**
+• PHP  
+• Java  
+• Relational databases (postgresql, mysql)  
+• OOP, SOLID, TDD  
+• Linux administration skills  
+• Good communication skills  
+• English (intermediate)  
+• Git
+
+**Other skills**
 -
+• JavaScript  
+• Reactjs  
+• Python  
+• Figma  
+• Zeplin   
+• Sketch   
+• Photoshop  
 
-2019 – Школа английского языка SkyEng (skyeng.ru)
-
-
-**ИНОСТРАННЫЕ ЯЗЫКИ**
+**Education**  
 -
-English: Pre-Intermediate 
-
-**НАВЫКИ**
--
-**PC:** Mac OS / Linux. Крайне давно работал на Windows   
-**Софт:** adobe Photoshop,adobe  illustrator,  adobe Xd, adobe After Effects, adobe Dreamweaver, adobe Dimension, Sketch, inVision, Google web designer, Hype 3, Microsoft Office.   
-**Языки:** PHP, Javascript, Html, Css, Python, Go-lang, React js, SQL, noSQL, Git.
-
-
-**ДОПОЛНИТЕЛЬНАЯ ИНФОРМАЦИЯ**
--
-От работы люблю получать не только финансовую выгоду, но и выгоду в качестве опыта и практики. Так как учился на программиста, не теряю надежды реализовать себя как программиста. 
-Но на предыдущем месте работы, это не получалось в виду рода деятельности отдела, в котором работал. Реализоваться самостоятельно на freelance не получается. Из-за отсутствия хорошего наставника или команды. Хотя всегда получается решить взятую на себя задачу, самостоятельно. Быстро нахожу решение возникших проблем в интернете. Но все же, это дольше чем в команде. Хотел бы принести пользу, взамен на опыт. 
-
-Быстро погружаюсь в задачу. Легко обучаемый и «жадный» до знаний. В деле, за которое берусь, всегда внимателен к деталям и нюансам. На данном этапе, не могу похвастаться красивым кодом, но то, что он будет рабочий это могу сказать точно. Пишу на Php, Python. 
-В данный момент взялся за изучение Go-lang, но из практики только учебные материалы, так же как в Java. Я уверен, что в команде дело пойдет быстрей.
-
-В качестве хобби увлекаю живописью и программированием (по настроению).   
-
+2005-2010 – MGUPI (Moscow Government University Instrumentation and Informatics) 
+Specialization: Programmer
 
