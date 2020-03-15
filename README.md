@@ -90,8 +90,8 @@ LLC «Ibrus» Moscow (Movie company)
 • OOP, SOLID, TDD  
 • Linux administration skills  
 • Good communication skills  
-• English (intermediate)
-• Russian (native)  
+• English (intermediate)  
+• Russian (native)   
 • Git
 
 **Other skills**
